@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramod
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and testing
 - 🌱 I’m currently learning React, Nextjs, tailwindcss, firebase. You can check my builds in the repositories
 - 💞️ I’m looking for a job as web developer
 - 📫 You can reach me on linkedIn: https://www.linkedin.com/in/amgainpramod/ or at twitter: https://twitter.com/amgain_pramod
